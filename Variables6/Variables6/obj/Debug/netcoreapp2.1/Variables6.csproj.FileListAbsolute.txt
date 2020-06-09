@@ -1,0 +1,10 @@
+C:\Users\Влад\source\repos\Variables6\Variables6\bin\Debug\netcoreapp2.1\Variables6.deps.json
+C:\Users\Влад\source\repos\Variables6\Variables6\bin\Debug\netcoreapp2.1\Variables6.runtimeconfig.json
+C:\Users\Влад\source\repos\Variables6\Variables6\bin\Debug\netcoreapp2.1\Variables6.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\Variables6\Variables6\bin\Debug\netcoreapp2.1\Variables6.dll
+C:\Users\Влад\source\repos\Variables6\Variables6\bin\Debug\netcoreapp2.1\Variables6.pdb
+C:\Users\Влад\source\repos\Variables6\Variables6\obj\Debug\netcoreapp2.1\Variables6.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Variables6\Variables6\obj\Debug\netcoreapp2.1\Variables6.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Variables6\Variables6\obj\Debug\netcoreapp2.1\Variables6.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Variables6\Variables6\obj\Debug\netcoreapp2.1\Variables6.dll
+C:\Users\Влад\source\repos\Variables6\Variables6\obj\Debug\netcoreapp2.1\Variables6.pdb
