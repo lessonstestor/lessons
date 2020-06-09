@@ -1,0 +1,10 @@
+C:\Users\Влад\source\repos\Variables3\Variables3\bin\Debug\netcoreapp2.1\Variables3.deps.json
+C:\Users\Влад\source\repos\Variables3\Variables3\bin\Debug\netcoreapp2.1\Variables3.runtimeconfig.json
+C:\Users\Влад\source\repos\Variables3\Variables3\bin\Debug\netcoreapp2.1\Variables3.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\Variables3\Variables3\bin\Debug\netcoreapp2.1\Variables3.dll
+C:\Users\Влад\source\repos\Variables3\Variables3\bin\Debug\netcoreapp2.1\Variables3.pdb
+C:\Users\Влад\source\repos\Variables3\Variables3\obj\Debug\netcoreapp2.1\Variables3.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Variables3\Variables3\obj\Debug\netcoreapp2.1\Variables3.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Variables3\Variables3\obj\Debug\netcoreapp2.1\Variables3.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Variables3\Variables3\obj\Debug\netcoreapp2.1\Variables3.dll
+C:\Users\Влад\source\repos\Variables3\Variables3\obj\Debug\netcoreapp2.1\Variables3.pdb
