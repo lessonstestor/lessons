@@ -1,0 +1,11 @@
+C:\Users\Влад\source\repos\Cycles1\Cycles1\bin\Debug\netcoreapp2.1\Cycles1.deps.json
+C:\Users\Влад\source\repos\Cycles1\Cycles1\bin\Debug\netcoreapp2.1\Cycles1.runtimeconfig.json
+C:\Users\Влад\source\repos\Cycles1\Cycles1\bin\Debug\netcoreapp2.1\Cycles1.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\Cycles1\Cycles1\bin\Debug\netcoreapp2.1\Cycles1.dll
+C:\Users\Влад\source\repos\Cycles1\Cycles1\bin\Debug\netcoreapp2.1\Cycles1.pdb
+C:\Users\Влад\source\repos\Cycles1\Cycles1\obj\Debug\netcoreapp2.1\Cycles1.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\Cycles1\Cycles1\obj\Debug\netcoreapp2.1\Cycles1.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Cycles1\Cycles1\obj\Debug\netcoreapp2.1\Cycles1.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Cycles1\Cycles1\obj\Debug\netcoreapp2.1\Cycles1.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Cycles1\Cycles1\obj\Debug\netcoreapp2.1\Cycles1.dll
+C:\Users\Влад\source\repos\Cycles1\Cycles1\obj\Debug\netcoreapp2.1\Cycles1.pdb
