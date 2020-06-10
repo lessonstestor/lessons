@@ -1,0 +1,10 @@
+C:\Users\Влад\source\repos\Cycles3\Cycles3\bin\Debug\netcoreapp2.1\Cycles3.deps.json
+C:\Users\Влад\source\repos\Cycles3\Cycles3\bin\Debug\netcoreapp2.1\Cycles3.runtimeconfig.json
+C:\Users\Влад\source\repos\Cycles3\Cycles3\bin\Debug\netcoreapp2.1\Cycles3.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\Cycles3\Cycles3\bin\Debug\netcoreapp2.1\Cycles3.dll
+C:\Users\Влад\source\repos\Cycles3\Cycles3\bin\Debug\netcoreapp2.1\Cycles3.pdb
+C:\Users\Влад\source\repos\Cycles3\Cycles3\obj\Debug\netcoreapp2.1\Cycles3.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Cycles3\Cycles3\obj\Debug\netcoreapp2.1\Cycles3.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Cycles3\Cycles3\obj\Debug\netcoreapp2.1\Cycles3.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Cycles3\Cycles3\obj\Debug\netcoreapp2.1\Cycles3.dll
+C:\Users\Влад\source\repos\Cycles3\Cycles3\obj\Debug\netcoreapp2.1\Cycles3.pdb
