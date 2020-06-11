@@ -1,0 +1,11 @@
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\bin\Debug\netcoreapp2.1\Cycles5Boss.deps.json
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\bin\Debug\netcoreapp2.1\Cycles5Boss.runtimeconfig.json
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\bin\Debug\netcoreapp2.1\Cycles5Boss.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\bin\Debug\netcoreapp2.1\Cycles5Boss.dll
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\bin\Debug\netcoreapp2.1\Cycles5Boss.pdb
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\obj\Debug\netcoreapp2.1\Cycles5Boss.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\obj\Debug\netcoreapp2.1\Cycles5Boss.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\obj\Debug\netcoreapp2.1\Cycles5Boss.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\obj\Debug\netcoreapp2.1\Cycles5Boss.dll
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\obj\Debug\netcoreapp2.1\Cycles5Boss.pdb
+C:\Users\Влад\source\repos\Cycles5Boss\Cycles5Boss\obj\Debug\netcoreapp2.1\Cycles5Boss.csprojAssemblyReference.cache
